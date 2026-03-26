@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-2 - input AND gate with LED on the output
+2 - input AND gate with an LED on the output
 
 ## How to test
 
