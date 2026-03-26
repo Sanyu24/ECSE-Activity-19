@@ -4,7 +4,7 @@ project:
   title:        "And Gate with LED"      # Project title
   author:       "Sanyu Karathody"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Input AND gates with LED at the output"      # One line description of what your project does
+  description:  "1 input AND gates with LED at the output"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
